@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Martins
+## Olá, eu sou o Luiz!
 
 <div align="center">
   <a href="https://github.com/Luizgsmkw">
