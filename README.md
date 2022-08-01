@@ -19,7 +19,7 @@
   <img align="center" alt="Luiz-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luiz-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Luiz-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2022/07/24/FDE0Wz.png">
+  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/Luizgsmkw/Advice-generator-app/main/img/download20220700000252-removebg-preview%20(1).png">
 </div>
 
 ##
